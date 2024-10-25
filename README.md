@@ -6,4 +6,4 @@ run <pd_control.cpp> for PD control using ESP-32 micro-controller, MPU 9250 (acc
 
 <main_balancing.cpp> (attempts to) implement wifi connection through MQTT protocol, as well as Lidar distance readings, all ran in VS code
 
-![Alt Text](media/progress.gif)
+![Alt Text](Media/closer.gif)
