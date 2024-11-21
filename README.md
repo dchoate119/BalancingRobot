@@ -16,7 +16,7 @@ Using an IMU (MPU-9250) accelerometer and gyroscope data are combined with a com
 
 ---
 
-## Video Demonstration
+## Video Demo (crash test)
 ![Alt Text](Media/closer.gif)
 
 ---
